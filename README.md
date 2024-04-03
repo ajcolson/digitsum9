@@ -1,8 +1,7 @@
 # digitsum9
 This program attempts to answer two questions:
   1) What is the digitsum d for each multiple of 9 from the expression d = 9n, where 0 < n < UserInputedNumber
-  2) For each digitsum in the range, how many iterations of the digitsum can be calcutated until we reach a digitsum of 9
-     
+  2) For each digitsum in the range, how many iterations of the digitsum can be calcutated until we reach a digitsum of 9   
 This program assumes the number n is an Unsigned 64-bit Integer.
 
 Examples:
